@@ -78,5 +78,6 @@ A Collection that stores pairs, where each pair consists of first half called "K
 ##### Key points:
   - Sometimes called "dictionary/ associative array/ hash"
   - Basic operations put, get, remove
-  
+
 ##### [Details and Methods](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html)
+#### Map Example: [Map](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/MapExample.java)
