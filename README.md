@@ -15,6 +15,8 @@
   - Dose not support inserting data in the middle of the list
   - Dose not support primitive types
 
+##### [Details and Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+
 #### LinkedList
 ##### Key points:
   - Almost like ArrayList
@@ -25,5 +27,7 @@
 ##### Trade Off:
   - Uses more overall memory than a ArrayList
   - Slower when looking up a value in a random index
+
+##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html)
 
 #### List Example: [ArrayList vs LinkedList](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/ListExample.java)
