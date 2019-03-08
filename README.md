@@ -87,15 +87,17 @@ A Collection that stores pairs, where each pair consists of first half called "K
 Reading a Long Text file word by word List took pretyy long time than Set or Map, wheather Set and Map took almost same time.
 Note: every word is unique word.
 The program tested on Intel Core i3 processor with 3.30 GHz in 12 Gigs of Ram.
-
+#### Screen Shot 1:
 <div align="center">
   <img src ="screen_shot/img1.png" width ="800">
 </div>
 
+#### Screen Shot 2:
 <div align="center">
   <img src ="screen_shot/img2.png" width ="800">
 </div>
 
+#### Screen Shot 3:
 <div align="center">
   <img src ="screen_shot/img3.png" width ="800">
 </div>
