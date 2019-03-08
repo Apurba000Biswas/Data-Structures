@@ -36,3 +36,29 @@
 The idea of different way of implementing same operation is called ADT.
 1. Stack
 2. Queue
+
+#### (1) Stack
+##### Key points:
+  - Last In First Out (LIFO)
+  - push : Add an element to the TOP
+  - pop : Remove the TOP element
+  - peek : Examine the TOP element (Dose not remove it)
+
+##### Trade Off:
+  - Dose not allow to see how many elements in a stack
+
+##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html)
+
+#### (2) Queue
+##### Key points:
+  - First In First Out (FIFO)
+  - add : Add an element to the BACK of the queue(AKA: enqueue)
+  - remove : Remove an element from the FRONT of the queue (AKA: dequeue)
+  - peek : Examine the FRONT element (Dose not remove it)
+
+##### Trade Off:
+  - Dose not allow to see how many elements in a queue
+
+##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html)
+
+#### ADT Example: [Stack vs Queue](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/ListExample.java)
