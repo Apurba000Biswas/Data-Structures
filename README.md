@@ -65,7 +65,7 @@ The idea of different way of implementing same operation is called ADT.
 
 ### Set
 A Collection of unique values. We dont think of a set as having any indexes.
-We just add things the set in general.
+We just add things to the set in general.
 ##### Key points:
   - No duplicate value allowed
   - Perform Add, Remove, Search(Contain) operations
@@ -84,7 +84,7 @@ A Collection that stores pairs, where each pair consists of first half called "K
 
 
 ## Performance Analysis (List vs Set vs Map)
-Reading a Long Text file word by word List took pretyy long time than Set or Map, wheather Set and Map took almost same time.
+Reading a Long Text file word by word List took pretty long time than Set or Map, wheather Set and Map took almost same time.
 Note: every word is unique word.
 The program tested on Intel Core i3 processor with 3.30 GHz in 12 Gigs of Ram.
 #### Screen Shot 1:
