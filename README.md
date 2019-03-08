@@ -62,3 +62,10 @@ The idea of different way of implementing same operation is called ADT.
 ##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html)
 
 #### ADT Example: [Stack vs Queue](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/ADT_Example.java)
+
+### Set
+A Collection of unique values. We dont think of a set as having any indexes.
+We just add things the set in general.
+##### Key points:
+  - No duplicate value allowed
+  - Perform Add, Remove, Search(Contain) operations
