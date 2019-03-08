@@ -19,6 +19,9 @@ public class ListExample {
 		list = getLinkedList();
 		System.out.println("\nBefore inserting new data in the middle of the Linked List:");
 		printList(list);
+		insertInLinkedList(list);
+		System.out.println("\nAfter inserting new data in the middle of the Linked List:");
+		printList(list);
 	}
 	
 	private List<String> getArrayList(){
@@ -48,6 +51,10 @@ public class ListExample {
 		list.add("Linked List string data 6");
 		list.add("Linked List string data 7");
 		return list;
+	}
+	
+	private void insertInLinkedList(List<String> list){
+		list.add(4, "This is new Data");
 	}
 
 }
