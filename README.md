@@ -71,3 +71,4 @@ We just add things the set in general.
   - Perform Add, Remove, Search(Contain) operations
 
 ##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/Set.html)
+#### Set Example: [Set](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/SetExample.java)

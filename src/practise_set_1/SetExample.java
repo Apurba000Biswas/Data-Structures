@@ -23,6 +23,9 @@ public class SetExample {
 		set.add("set data 3");
 		set.add("set data 4");
 		set.add("set data 5");
+		set.add("set data 5");
+		set.add("set data 3");
+		set.add("set data 5");
 		return set;
 	}
 	
