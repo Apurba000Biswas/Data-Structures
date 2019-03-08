@@ -89,13 +89,13 @@ Note: every word is unique word.
 The program tested on Intel Core i3 processor with 3.30 GHz in 12 Gigs of Ram.
 
 <div align="center">
-  <img src ="screen_shot/img1.png" width ="500">
+  <img src ="screen_shot/img1.png" width ="800">
 </div>
 
 <div align="center">
-  <img src ="screen_shot/img2.png" width ="500">
+  <img src ="screen_shot/img2.png" width ="800">
 </div>
 
 <div align="center">
-  <img src ="screen_shot/img3.png" width ="500">
+  <img src ="screen_shot/img3.png" width ="800">
 </div>
