@@ -81,3 +81,21 @@ A Collection that stores pairs, where each pair consists of first half called "K
 
 ##### [Details and Methods](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html)
 #### Map Example: [Map](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/MapExample.java)
+
+
+## Performance Analysis (List vs Set vs Map)
+Reading a Long Text file word by word List took pretyy long time than Set or Map, wheather Set and Map took almost same time.
+Note: every word is unique word.
+The program tested on Intel Core i3 processor with 3.30 GHz in 12 Gigs of Ram.
+
+<div align="center">
+  <img src ="screen_shot/img1.png" width ="500">
+</div>
+
+<div align="center">
+  <img src ="screen_shot/img2.png" width ="500">
+</div>
+
+<div align="center">
+  <img src ="screen_shot/img3.png" width ="500">
+</div>
