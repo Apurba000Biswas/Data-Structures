@@ -69,3 +69,5 @@ We just add things the set in general.
 ##### Key points:
   - No duplicate value allowed
   - Perform Add, Remove, Search(Contain) operations
+
+##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/Set.html)
