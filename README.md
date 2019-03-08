@@ -31,3 +31,8 @@
 ##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html)
 
 #### List Example: [ArrayList vs LinkedList](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/ListExample.java)
+
+### ADTs: (Abstruct Data Type)
+The idea of different way of implementing same operation is called ADT.
+1. Stack
+2. Queue
