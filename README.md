@@ -103,3 +103,13 @@ The program tested on Intel Core i3 processor with 3.30 GHz in 12 Gigs of Ram.
 </div>
 
 ### [Program Link - (CountWords)](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/CountWords.java)
+
+Acknowledgement
+-----------------
+
+Stanford(CS-106A) : http://stanford.edu/class/archive/cs/cs106b/cs106b.1184/index.shtml
+
+Authors
+--------------
+
+[Apurba Biswas](https://github.com/Apurba000Biswas)
