@@ -27,7 +27,6 @@ public class CountWords {
 	
 	private void run(){
 		try{
-			
 			countWordsUsingList();
 			countWordsUsingSet();
 			countWordsUsingMap();
