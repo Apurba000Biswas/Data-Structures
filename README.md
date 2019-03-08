@@ -26,4 +26,4 @@
   - Uses more overall memory than a ArrayList
   - Slower when looking up a value in a random index
 
-#### List Example: [ArrayList vs LinkedList] (https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/ListExample.java)
+#### List Example: [ArrayList vs LinkedList](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/ListExample.java)
