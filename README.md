@@ -4,7 +4,7 @@
 1. ArrayList
 2. LinkedList
 
-#### ArrayList
+#### (1) ArrayList
 ##### Key points:
   - Resizable
   - Allow retrieving elements by their index
@@ -17,7 +17,7 @@
 
 ##### [Details and Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 
-#### LinkedList
+#### (2) LinkedList
 ##### Key points:
   - Almost like ArrayList
   - Internally way of storing data is different
