@@ -107,7 +107,7 @@ The program tested on Intel Core i3 processor with 3.30 GHz in 12 Gigs of Ram.
 Acknowledgement
 -----------------
 
-Stanford(CS-106A) : http://stanford.edu/class/archive/cs/cs106b/cs106b.1184/index.shtml
+Stanford(CS-106B) : http://stanford.edu/class/archive/cs/cs106b/cs106b.1184/index.shtml
 
 Authors
 --------------
