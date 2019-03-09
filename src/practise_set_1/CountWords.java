@@ -66,9 +66,7 @@ public class CountWords {
 		Set<String> uniqueWords = new HashSet<String>(); 
 		while(scanner.hasNext()){
 			String word = scanner.next();
-			if(!uniqueWords.contains(word)){
-				uniqueWords.add(word);
-			}
+			uniqueWords.add(word);
 		}
 		System.out.println("Total Unique Words : " + uniqueWords.size());
 		scanner.close();
