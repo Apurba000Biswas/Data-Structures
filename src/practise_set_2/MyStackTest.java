@@ -9,6 +9,7 @@ public class MyStackTest {
 	}
 	
 	private void run(){
+		/*
 		MyStack intStack = new MyStack();
 		intStack.push(4);
 		intStack.push(6);
@@ -20,5 +21,27 @@ public class MyStackTest {
 			intStack.pop();
 			System.out.println(intStack);
 		}
+		*/
+		
+		MyIntLinkedList ll = new MyIntLinkedList();
+		ll.addFront(10);
+		ll.addFront(11);
+		ll.addFront(12);
+		ll.addFront(13);
+		
+		ll.addBack(20);
+		
+		System.out.println("List is : " + ll);
+		
+		ll.removeFront();
+		System.out.println("After Removing front : " + ll);
+		ll.removeBack();
+		System.out.println("After Removing Back : " + ll);
+		ll.insert(2, 511);
+		System.out.println("After Insert 511 in 2 : " + ll);
+		
+		System.out.println("Front is : " + ll.getFront());
+		System.out.println("Back is : " + ll.getBack());
+		System.out.println("Value in 3 is : " + ll.get(3));
 	}
 }
