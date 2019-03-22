@@ -26,6 +26,8 @@ public class MyStackTest {
 		MyIntLinkedList ll = new MyIntLinkedList();
 		ll.addFront(10);
 		ll.addFront(11);
+		ll.addFront(2);
+		ll.addFront(76);
 		ll.addFront(12);
 		ll.addFront(13);
 		
@@ -43,5 +45,8 @@ public class MyStackTest {
 		System.out.println("Front is : " + ll.getFront());
 		System.out.println("Back is : " + ll.getBack());
 		System.out.println("Value in 3 is : " + ll.get(3));
+		
+		System.out.println("Minimum is : " + ll.getMinmum());
+		System.out.println("Is Sorted? : " + ll.isSorted());
 	}
 }

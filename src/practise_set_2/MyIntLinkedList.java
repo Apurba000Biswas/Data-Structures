@@ -102,6 +102,39 @@ public class MyIntLinkedList {
 	    }
 	}
 	
+	public int getMinmum(){
+		int min = 10000;
+		ListNode current = front;
+		while(current.next != null){
+			min = getMin(min, current.data);
+			current = current.next;
+		}
+		min = getMin(min, current.data);
+		System.out.println("in getMinimum");
+		return min;
+	}
+	
+	private int getMin(int value1, int value2){
+		return (value1 < value2) ? value1: value2;
+	}
+	
+	
+	public boolean isSorted(){
+		if(front == null){
+			return true;
+		}else{
+			ListNode current = front;
+			
+			while(current.next != null){
+				if(current.data > current.next.data){
+					return false;
+				}
+				current = current.next;
+			}
+			return true;
+		}
+	}
+	
 	public final String toString(){
 		StringBuilder sb = new StringBuilder("[");
 		ListNode current = front;
