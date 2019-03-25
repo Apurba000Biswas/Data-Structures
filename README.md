@@ -78,6 +78,12 @@ We just add things to the set in general.
 ##### [Details and Methods](https://docs.oracle.com/javase/7/docs/api/java/util/Set.html)
 #### Set Example: [Set](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/SetExample.java)
 
+#### Time Complexity HashSet:
+<div align="center">
+  <img src ="screen_shot/com_2.png" width ="800">
+</div>
+
+
 ### Map
 A Collection that stores pairs, where each pair consists of first half called "Key" and second half called "Value"
 ##### Key points:
