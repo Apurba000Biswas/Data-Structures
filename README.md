@@ -32,6 +32,11 @@
 
 #### List Example: [ArrayList vs LinkedList](https://github.com/Apurba000Biswas/Data-Structures/blob/master/src/practise_set_1/ListExample.java)
 
+#### Time Complexity ArrayList Vs LinkedList:
+<div align="center">
+  <img src ="screen_shot/com_1.png" width ="800">
+</div>
+
 ### ADTs: (Abstruct Data Type)
 The idea of different way of implementing same operation is called ADT.
 1. Stack
