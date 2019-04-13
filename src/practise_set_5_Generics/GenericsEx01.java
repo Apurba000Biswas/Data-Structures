@@ -1,4 +1,4 @@
-package practise_5_Generics;
+package practise_set_5_Generics;
 
 public class GenericsEx01 {
 
