@@ -117,6 +117,9 @@ The program tested on Intel Core i3 processor with 3.30 GHz in 12 Gigs of Ram.
 
 ### [Application Using These Data Structures - (WordLader-Ngrams)](https://github.com/Apurba000Biswas/CS-106B-WordLader-Ngrams)
 
+
+#### [DQueue](https://www.geeksforgeeks.org/deque-interface-java-example/)
+
 Acknowledgement
 -----------------
 
